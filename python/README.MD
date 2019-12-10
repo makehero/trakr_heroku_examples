@@ -11,7 +11,7 @@ https://devcenter.heroku.com/articles/getting-started-with-python
 
 2. You have installed the free Trakr heroku addon
 https://elements.heroku.com/addons/trakr
-Installing the addon will expose a config var named "TRAKR_API_TOKEN" for your app
+Installing the addon will expose a config var named **"TRAKR_API_TOKEN"** for your app
 
 3. You can access your app locally via the `heroku local web` command and the app should be
 available on http://localhost:5000
